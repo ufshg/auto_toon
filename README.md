@@ -12,10 +12,10 @@
 ### 사용 예시
 
 사용 이미지
-![ex_screenshot](https://raw.githubusercontent.com/ufshg/auto_toon/main/image.png)
+![ex_screenshot](https://github.com/ufshg/auto_toon/blob/main/image.jpg?raw=true)
 
 ChatGPT의 결과 이미지
-![ex_screenshot](https://raw.githubusercontent.com/ufshg/auto_toon/main/cartoon.png)
+![ex_screenshot](https://github.com/ufshg/auto_toon/blob/main/cartoon.jpg?raw=true)
 
 `autotoon.py` 결과 이미지
-![ex_screenshot](https://raw.githubusercontent.com/ufshg/auto_toon/main/output.jpg)
+![ex_screenshot](https://github.com/ufshg/auto_toon/blob/main/output.jpg?raw=true)
